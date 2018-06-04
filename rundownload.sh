@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ -s "www/index.php" ]
+if [ -s "www/.git" ]
  then
     echo " file does already exist "
  else
